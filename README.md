@@ -17,7 +17,7 @@ would like to use you can refine searches easily.
 
 ![Site Overview](web/static/images/UFO.png)
 
-
+![Site Overview](web/static/images/UFO_update.png)
 
 ### Summary
 
